@@ -1,2 +1,3 @@
 # DSC180A-Methodology-4
-Edward Hua, Housheng Hai
+Junbo Zhang, Housheng Hai
+juz019@ucsd.edu, hhai@ucsd.edu
